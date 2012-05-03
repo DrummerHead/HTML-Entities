@@ -11,13 +11,13 @@ body {
   margin: 0;
 }
 #wrap {
-  width: 30em;
+  width: 35em;
   padding: 1.6em 2.2em;
   overflow: auto;
 }
 [role='banner'] {
   display: block;
-  padding: 0 11% 0 0;
+  padding: 0 9.6% 0 0;
 }
 h1 {
   font-size: 1.6em;
@@ -46,7 +46,7 @@ em {
   background-color: #fff;
 }
 dt {
-  width: 78%;
+  width: 68%;
   float: left;
   border-bottom-color: #eee;
   position: relative;
@@ -76,7 +76,7 @@ b {
   font-weight: normal;
 }
 dd {
-  width: 19%;
+  width: 14%;
   float: left;
   padding-left: 2%;
   margin: 0;
@@ -85,5 +85,5 @@ dd {
 [role='contentinfo'] {
   display: block;
   clear: both;
-  padding: 0 5.7% 0 0;
+  padding: 0 7% 0 0;
 }
