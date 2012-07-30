@@ -11,13 +11,13 @@ body {
   margin: 0;
 }
 #wrap {
-  width: 35em;
+  width: 40em;
   padding: 1.6em 2.2em;
   overflow: auto;
 }
 [role='banner'] {
   display: block;
-  padding: 0 9.6% 0 0;
+  padding: 0 3.4em 0 0;
 }
 h1 {
   font-size: 1.6em;
@@ -46,7 +46,7 @@ em {
   background-color: #fff;
 }
 dt {
-  width: 68%;
+  width: 28em;
   float: left;
   border-bottom-color: #eee;
   position: relative;
@@ -63,7 +63,8 @@ small {
   color: #555;
 }
 em {
-  width: 10%;
+  width: 1.5em;
+  padding: 0 0 0 .5em;
   float: right;
   font-style: normal;
   font-family: Georgia, serif;
@@ -76,14 +77,14 @@ b {
   font-weight: normal;
 }
 dd {
-  width: 14%;
+  width: 5em;
   float: left;
-  padding-left: 2%;
+  padding-left: 1em;
   margin: 0;
   border-bottom-color: #fff;
 }
 [role='contentinfo'] {
   display: block;
   clear: both;
-  padding: 0 7% 0 0;
+  padding: 0 3.1em 0 0;
 }
