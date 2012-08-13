@@ -30,7 +30,6 @@ p {
   margin: 0;
   text-align: right;
 }
-
 dl {
   float: left;
 }
@@ -70,11 +69,15 @@ em {
   font-family: Georgia, serif;
   text-align: center;
 }
+b {
+  font-size: .67em;
+  font-weight: normal;
+  font-variant: small-caps;
+  color: #777;
+}
 .sans-serif {
   font-family: sans-serif;
-}
-b {
-  font-weight: normal;
+  font-style: normal;
 }
 dd {
   width: 5em;
