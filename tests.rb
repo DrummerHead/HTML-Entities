@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 utf = IO.read("index.html")
 
 em = utf.scan(/<em[^>]*>&#([^;]*);<\/em>/)
